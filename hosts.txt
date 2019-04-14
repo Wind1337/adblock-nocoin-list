@@ -690,3 +690,13 @@
 0.0.0.0 s11.hostcontent.live
 0.0.0.0 s12.hostcontent.live
 0.0.0.0 s13.hostcontent.live
+
+
+
+
+# Piratebay coin mining domains disguised as CDN domains
+0.0.0.0 cdn-101.statdynamic.com
+0.0.0.0 cdn-102.statdynamic.com
+0.0.0.0 cdn-103.statdynamic.com
+0.0.0.0 cdn-104.statdynamic.com
+0.0.0.0 cdn-105.statdynamic.com
