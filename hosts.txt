@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 12 April 2019
+# Last modified: 04 Jun 2019
 #
 
 0.0.0.0 cnhv.co
@@ -274,7 +274,11 @@
 0.0.0.0 www.lightminer.co
 0.0.0.0 browsermine.com
 0.0.0.0 api.browsermine.com
+0.0.0.0 dl.browsermine.com
 0.0.0.0 mlib.browsermine.com
+0.0.0.0 minr.browsermine.com
+0.0.0.0 static.browsermine.com
+0.0.0.0 ws.browsermine.com
 0.0.0.0 bmst.pw
 0.0.0.0 bmnr.pw
 0.0.0.0 bmcm.pw
@@ -438,9 +442,13 @@
 0.0.0.0 www.freecontent.science
 0.0.0.0 www.freecontent.stream
 0.0.0.0 www.freecontent.trade
+0.0.0.0 www.hostcontent.live
+0.0.0.0 www.hostingcloud.accountant
 0.0.0.0 www.hostingcloud.bid
 0.0.0.0 www.hostingcloud.date
+0.0.0.0 www.hostingcloud.download
 0.0.0.0 www.hostingcloud.faith
+0.0.0.0 www.hostingcloud.live
 0.0.0.0 www.hostingcloud.loan
 0.0.0.0 www.hostingcloud.party
 0.0.0.0 www.hostingcloud.racing
@@ -690,20 +698,9 @@
 0.0.0.0 s11.hostcontent.live
 0.0.0.0 s12.hostcontent.live
 0.0.0.0 s13.hostcontent.live
-
-
-
-
-
-
-
-
-
-
-
-# Piratebay coin mining domains disguised as CDN domains
 0.0.0.0 cdn-101.statdynamic.com
 0.0.0.0 cdn-102.statdynamic.com
 0.0.0.0 cdn-103.statdynamic.com
 0.0.0.0 cdn-104.statdynamic.com
 0.0.0.0 cdn-105.statdynamic.com
+0.0.0.0 bitcoin-pay.eu
