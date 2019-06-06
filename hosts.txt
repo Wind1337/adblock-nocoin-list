@@ -694,6 +694,13 @@
 
 
 
+
+
+
+
+
+
+
 # Piratebay coin mining domains disguised as CDN domains
 0.0.0.0 cdn-101.statdynamic.com
 0.0.0.0 cdn-102.statdynamic.com
